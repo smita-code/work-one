@@ -1,0 +1,42 @@
+#name{
+    color: purple;
+    background-color: lightgreen;
+    height: 8%;
+    width: 50%;
+    border: 5px solid pink;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 25%;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.number{
+    text-align: center;
+}
+.episode{
+    color: black;
+   background-color: lightgrey;
+   height: 5%;
+   width: 75%;
+   border: 5px solid pink;
+   border-radius: 5px;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.episode p{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
